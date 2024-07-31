@@ -1,9 +1,8 @@
 # Shen Support Bible
 
-
 ## 1. Introduction
 
-Shen Support is a pick that relies completely on your teammates (soloQ nightmare) - engaging and peeling for your team.  
+Shen Support is a pick that relies completely on your teammates (solo-Q nightmare) - engaging and peeling for your team.  
 It is not a pick that can carry or deal any substantial (non-emotional) damage.  
 I like to think of it as a less tanky, more damage, roaming, global presence Leona.
 
@@ -16,27 +15,56 @@ Shen is a lifestyle.
 
 #### Support
 
+##### Archetypes
+
+Archetype | Description | Examples
+--- | --- | ---
+Engage | Able to initiate a fight and go all-in | Leona, Nautilus, Rell
+Peel | Excellent at peeling off engagers | Janna, Taric, Renata
+Poke | Efficient damage dealer from a safe position. Can drop your health bar below 50% in just one combo while you can't even see them on your screen. | Xerath, Lux, Brand
+Protect | Made to mitigate (shield) / negate incoming damage | Lulu, Janna, Morgana
+Catch | Able to make picks from afar. Safer CC that doesn't require all-ins. Prevents enemy escape | Blitzcrank, Nautilus, Veigar
+Sustain | Sustaining (healing) the team through poke | Soraka, Sona, Yuumi
+Enchant | Applies many sort of buffs to enhance team stats | Sona, Lulu, Nami
+Tank | Frontline damage sponges | Leona, Alistar, Rell
+Scaling | Tries to go even in lane, scales well late game | Sona, Yuumi, Janna
+
+##### Grading
+
+###### Scores
+
+*Whenever changing the grading scores, make sure to sync up the changes with [grading.py](./grading.py) and update both the table and tierlists*
+
 Playing against:
 
-1. **Enchanter**:
-    - Generally the easiest matchup.
-    - Very passive, can't deal with your early aggression.
-    - **Examples**: Sona, Soraka, Seraphine
-
-2. **Poke**:
-    - Managable matchup.
-    - Can drop your health bar below 50% in just one combo while you can't even see them on your screen.
+- `(+3)` **Enchant**: Very passive, can't deal with your early aggression. No amount of buffs are going to stop you.
+- `(+2)` **Sustain / Protect**: No amount of sustain can save you from all-in, can it?
+- `(+1)` **Scaling**: Scaling champions don't look to win the lane. They try to survive it. And you, as an engage support, make it damn near impossible.
+- `(-1)` **Tank**: ...
+- `(-2)` **Poke**:
     - Wait out their important CDs and go all in on their ADC.
     - Maintain brush control and be the one zoning *them* off.
-    - **Examples**: Xerath, Zyra, Lux
-
-3. **Engage**:
-    - The hardest matchup.
-    - Most engage supports have way longer CC chains and range than you. Wait out their important CDs and go in, otherwise this is just a battle of "whoever engages first, loses".
+- `(-3)` **Catch**: Can play extremely safe and still be an extreme threat to both you and your ADC.
+- `(-4)` **Engage**:
+     - Most engage supports have way longer CC chains and range than you. Wait out their important CDs and go in, otherwise this is just a battle of "whoever engages first, loses".
     - If they engage on your ADC, you counter-engage on theirs and, with them having wasted all their CC, you win the fight.
-    - Generally don't look to engage first when they have their CC up.
-    - **Examples**: Leona, Pyke, Nautilus
+    - Generally don't look to engage if they have their CC up.
+- `(-5)` **Peel**: ...
 
+###### Table
+
+*For automatic grading table generation, check out [grading.py](./grading.py)*
+
+...
+
+###### Tierlist
+
+...
+
+##### Credits
+
+- https://www.mobafire.com/league-of-legends/tier-list/support-types-categories-for-picking-and-counter-picking-1648
+- https://www.reddit.com/r/supportlol/comments/v36del/categorizing_supports_by_supportive_capabilities/
 
 #### ADC
 
@@ -57,28 +85,49 @@ Mobile         | High amounts of mobility (blinks, dashes) | Ezreal, Tristana, V
 The best ADCs to play with Shen Support are those that can match his early game aggression and can easily follow-up on your engages to all-in the enemy.  
 On the other hand, the worst ADC to play with (or the best to play against) are the exact opposite - safe, passive, scaling pokers (pussies).  
 
-Grading scores:
+###### Scores
+
+*Whenever changing the grading scores, make sure to sync up the changes with [grading.py](./grading.py) and update both the table and tierlists*
 
 - **Playing with**:
+
     - `(+5)` **All-in**: The best of all. Not usually lane bullies, but you can be behind and still win an all-in with them. Match your all-in aggression.
+
     - `(+4)` **Lane Bully**: Better than hypercarries, since you rely so much on your early-game. Match well with your aggression.
+
     - `(+3)` **Hypercarry**: Little weaker early, but better than mobile, since you can snowball them into oblivion
+
     - `(+2)` **Mobile**: Better than utility, since they can easily follow-up on your engage
+
     - `(+1)` **Utility**: Better than pokers, because they can follow-up with their CC after your engage or vice versa.
-    - `( 0)` **Auto-Attacker**
+
+    - `(0)` **Auto-Attacker**
+
     - `(-1)` **Poker**: Play rather safe and behind, better than scalers. Peel and survive.
+
     - `(-2)` **Scaler**: Usually more passive and boring lane, cannot engage with scalers as they do close to 0 damage. Dont match well with your insane lvl 2 aggression. Peel and survive.
+
 - **Playing against**:
+
     - `(+4)` **Scaler**: Wants to play passive and safe. We ain't letting that slide. Punish them early while you can. Your early game is unmatched.
+
     - `(+3)` **Auto-Attacker**: You hard-counter any AA-heavy ADCs with one ability, your W. Insane peeling and unmatchable trades. One of, if not the easiest ADC archetype to play against.
+ 
     - `(+2)` **All-in**: Not that bad actually. With the amount of peeling you provide (W, E), it is impossible for them all-in, therefore rendering their entire playstyle useless. Usually dont engage when they got their ults up.
+
     - `(+1)` **Hypercarry**: Rely on snowballing. Good luck doing that with Shen Support in the lane. Impossible task. Punish them early while you can. Your early game is unmatched.
+
     - `(-1)` **Poker**: Just annoying. Maintain brush control during laning phase, zone them off and look for engages. Better than utility, since it's easier to engage on.
+
     - `(-2)` **Utility**: Can make it easier shutdown your engages with their CC/Utility. Wait out their CDs then all-in. Better than mobile, since they cannot escape your engages.
+
     - `(-3)` **Mobile**: Can easily escape your engages and all-ins. Look for cheeky hexflash taunts. Better than lane bully since cannot match your early game, just avoid it.
+
     - `(-4)` **Lane Bully**: Can match, or even worse - outmatch, your early aggression and push you off your lane, shutting off your early aggression, that you rely at.
 
-Grading Table:
+###### Table
+
+*For automatic grading table generation, check out [grading.py](./grading.py)*
 
 Icon | Champion | Archetype(s) | w/ Grade | w/ Rank | w/ Eff. (%) | vs Grade | vs Rank | vs Eff. (%)
 ---: | :------- | :----------- | :------: | :-----: | :---------: | :------: | :-----: | :---------:
@@ -111,20 +160,11 @@ Icon | Champion | Archetype(s) | w/ Grade | w/ Rank | w/ Eff. (%) | vs Grade | v
 
 \***Effectiveness**: How much the ADC matches with you / plays in your favor.
 
+###### Tierlist
+
 Playing With                 | Playing Against
 ---------------------------- | --------------------------
 ![](./adc-tierlist-with.PNG) | ![](./adc-tierlist-vs.PNG)
-
-#### Lane
-
-Ranked from best to worst:
-
-- Passive ADC + Engage Support
-- Passive ADC + Enchanter Support
-- Passive ADC + Poke Support
-- Aggressive ADC + Enchanter Support
-- Aggressive ADC + Poke Support
-- Aggressive ADC + Engage Support
 
 ## 2. Playstyle
 
