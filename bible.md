@@ -113,11 +113,11 @@ Icon | Champion | Archetype(s) | w/ Grade | w/ Rank | w/ Eff. (%) | vs Grade | v
 
 *Playing With* Tierlist:
 
-![](adc-tierlist-with.png)
+![](./adc-tierlist-with.png)
 
 *Playing Against* Tierlist:
 
-![](adc-tierlist-vs.png)
+![](./adc-tierlist-vs.png)
 
 #### Lane
 
