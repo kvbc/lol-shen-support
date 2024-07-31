@@ -115,14 +115,6 @@ Playing With                 | Playing Against
 ---------------------------- | --------------------------
 ![](./adc-tierlist-with.PNG) | ![](./adc-tierlist-vs.PNG)
 
-*Playing With* Tierlist:
-
-![](./adc-tierlist-with.PNG)
-
-*Playing Against* Tierlist:
-
-![](./adc-tierlist-vs.PNG)
-
 #### Lane
 
 Ranked from best to worst:
