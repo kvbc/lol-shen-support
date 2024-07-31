@@ -111,6 +111,10 @@ Icon | Champion | Archetype(s) | w/ Grade | w/ Rank | w/ Eff. (%) | vs Grade | v
 
 \***Effectiveness**: How much the ADC matches with you / plays in your favor.
 
+Playing With                 | Playing Against
+---------------------------- | --------------------------
+![](./adc-tierlist-with.PNG) | ![](./adc-tierlist-vs.PNG)
+
 *Playing With* Tierlist:
 
 ![](./adc-tierlist-with.PNG)
