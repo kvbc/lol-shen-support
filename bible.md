@@ -185,7 +185,7 @@ When roaming, get deep vision into enemy jungle to track the enemy jungler's pos
 
 ### 2.3. Map Awareness
 
-...
+... (talk about keybinds, ZXCV)
 
 ### 2.4. Early Game
 
