@@ -111,13 +111,9 @@ Icon | Champion | Archetype(s) | w/ Grade | w/ Rank | w/ Eff. (%) | vs Grade | v
 
 \***Effectiveness**: How much the ADC matches with you / plays in your favor.
 
-*Playing With* Tierlist:
-
-![](adc-tierlist-with.png)
-
-*Playing Against* Tierlist:
-
-![](adc-tierlist-vs.png)
+Playing With                 | Playing Against
+:--------------------------: | :-------------:
+![](./adc-tierlist-with.PNG) | ![](./adc-tierlist-vs.PNG)
 
 #### Lane
 
@@ -325,3 +321,23 @@ Inspiration tree
 ### 3.3. Summoner Spells
 
 As Shen support, there are only really two viable spells: flash  w/ ignite or exhaust. Mid/late game, exhaust is much better in teamfights and peeling, whereas ignite is nowhere near that useful. As previously mentioned, you really on hard-stomping your lane early game. Making ignite the preferred summoner spell.
+
+## 4. Extras
+
+### Presentation
+
+Let your team know that this is not a troll pick.
+
+[slides.pptx](./slides.pptx)
+
+### Custom Mods
+
+...
+
+My favourite custom Shen mods:
+- [Lethal Company Shen]()
+- [Minecraft Shen]()
+- [Hololive Kazama Iroha Shen]()
+- [KDA Shen]()
+- [Scorpion & Sub-Zero Shen]()
+- [Shen Japanese VO]()
