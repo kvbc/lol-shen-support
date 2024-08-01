@@ -55,7 +55,42 @@ Playing against:
 
 *For automatic grading table generation, check out [grading.py](./grading.py)*
 
-...
+| Icon | Champion | Archetype(s) | vs Grade | vs Rank | vs Eff. (%) |
+| ---: | :------- | :----------- | :------: | :-----: | :---------: |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Alistar | Engage, Peel, Sustain, Tank, Scaling | -7 | C+ | 35% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Bard | Peel, Protect, Catch, Sustain, Scaling | -3 | B+ | 52% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Blitzcrank | Catch, Tank | -4 | B | 48% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Brand | Poke, Scaling | -1 | A | 61% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Braum | Peel, Protect, Tank, Scaling | -3 | B+ | 52% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Galio | Engage, Peel, Tank, Scaling | -9 | C | 26% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Ivern | Protect, Catch | -1 | A | 61% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Janna | Peel, Protect, Catch, Sustain, Enchant, Scaling | 0 | A | 65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Karma | Poke, Protect, Catch, Enchant | 0 | A | 65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Leona | Engage, Tank | -5 | B | 43% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Lulu | Peel, Protect, Enchant, Scaling | 1 | A | 70% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Lux | Poke, Protect, Catch | -3 | B+ | 52% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Maokai | Engage, Peel, Catch, Tank, Scaling | -12 | D | 13% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Morgana | Peel, Protect, Catch | -6 | C+ | 39% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Nami | Peel, Poke, Catch, Sustain, Enchant | -5 | B | 43% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Nautilus | Engage, Catch, Tank | -8 | C+ | 30% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Pyke | Engage, Catch | -7 | C+ | 35% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Rakan | Engage, Peel, Protect, Sustain | -5 | B | 43% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Rell | Engage, Peel, Tank, Scaling | -9 | C | 26% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Renata Glasc | Peel, Protect, Catch, Enchant, Scaling | -2 | B+ | 57% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Senna | Poke, Protect, Catch, Sustain, Scaling | 0 | A | 65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Seraphine | Peel, Poke, Protect, Catch, Sustain, Enchant, Scaling | -2 | B+ | 57% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Shen | Engage, Peel, Catch, Tank | -13 | F | 9% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Sona | Peel, Protect, Catch, Sustain, Enchant, Scaling | 0 | A | 65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Soraka | Poke, Protect, Sustain, Enchant, Scaling | 6 | S+ | 91% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Swain | Catch, Tank | -4 | B | 48% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Tahm Kench | Engage, Peel, Tank | -10 | C | 22% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Taric | Peel, Protect, Sustain, Enchant, Tank, Scaling | 2 | A+ | 74% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Thresh | Engage, Peel, Catch | -12 | D | 13% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Vel'Koz | Poke, Scaling | -1 | A | 61% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Xerath | Poke | -2 | B+ | 57% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Yuumi | Peel, Sustain, Enchant, Scaling | 1 | A | 70% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Zilean | Poke, Protect, Catch, Enchant, Scaling | 1 | A | 70% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Zyra | Peel, Poke, Catch | -10 | C | 22% |
 
 ###### Tierlist
 
