@@ -170,7 +170,18 @@ if True:
 		vs_eff = (vs_grade + vs_grades_offset) / vs_grades_total_sum
 		vs_rank = get_rank(vs_eff)
 
-		print("|", "![](" + icon + ")", "|", champion, "|", champion_archetypes[champion], "|", w_grade, "|", w_rank, "|", str(round(w_eff * 100)) + "%", "|", vs_grade, "|", vs_rank, "|", str(round(vs_eff * 100)) + "%", "|")
+		print(
+			"|", ("![](" + icon + ")").ljust(155),
+			"|", champion.ljust(15),
+			"|", champion_archetypes[champion].ljust(80),
+			"|", str(w_grade).rjust(3),
+			"|", w_rank.ljust(2),
+			"|", str(round(w_eff * 100)).rjust(3) + "%",
+			"|", str(vs_grade).rjust(3),
+			"|", vs_rank.ljust(2),
+			"|", str(round(vs_eff * 100)).rjust(3) + "%",
+			"|"
+		)
 
 		#print("w/ grade:", w_grade)
 		#print("w/ rank:", w_rank)
@@ -178,6 +189,8 @@ if True:
 		#print("vs grade:", vs_grade)
 		#print("vs rank:", vs_rank)
 		#print("vs eff:", round(vs_eff * 100), "%")
+
+	print()
 
 #
 # Support
@@ -257,4 +270,12 @@ if True:
 		vs_eff = (vs_grade + vs_grades_offset) / vs_grades_total_sum
 		vs_rank = get_rank(vs_eff)
 
-		print("|", "![](" + icon + ")", "|", champion, "|", champion_archetypes[champion], "|", vs_grade, "|", vs_rank, "|", str(round(vs_eff * 100)) + "%", "|")
+		print(
+			"|", ("![](" + icon + ")").ljust(155),
+			"|", champion.ljust(15),
+			"|", champion_archetypes[champion].ljust(80),
+			"|", str(vs_grade).rjust(3),
+			"|", vs_rank.ljust(2),
+			"|", str(round(vs_eff * 100)).rjust(3) + "%",
+			"|"
+		)

@@ -33,7 +33,7 @@ Scaling | Tries to go even in lane, scales well late game | Sona, Yuumi, Janna
 
 ###### Scores
 
-*Whenever changing the grading scores, make sure to sync up the changes with [grading.py](./grading.py) and update both the table and tierlists*
+*Whenever changing the grading scores, make sure to update both the table and tierlists with the use of [grading.py](./grading.py)*
 
 Playing against:
 
@@ -57,44 +57,46 @@ Playing against:
 
 | Icon | Champion | Archetype(s) | vs Grade | vs Rank | vs Eff. (%) |
 | ---: | :------- | :----------- | :------: | :-----: | :---------: |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Alistar | Engage, Peel, Sustain, Tank, Scaling | -7 | C+ | 35% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Bard | Peel, Protect, Catch, Sustain, Scaling | -3 | B+ | 52% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Blitzcrank | Catch, Tank | -4 | B | 48% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Brand | Poke, Scaling | -1 | A | 61% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Braum | Peel, Protect, Tank, Scaling | -3 | B+ | 52% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Galio | Engage, Peel, Tank, Scaling | -9 | C | 26% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Ivern | Protect, Catch | -1 | A | 61% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Janna | Peel, Protect, Catch, Sustain, Enchant, Scaling | 0 | A | 65% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Karma | Poke, Protect, Catch, Enchant | 0 | A | 65% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Leona | Engage, Tank | -5 | B | 43% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Lulu | Peel, Protect, Enchant, Scaling | 1 | A | 70% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Lux | Poke, Protect, Catch | -3 | B+ | 52% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Maokai | Engage, Peel, Catch, Tank, Scaling | -12 | D | 13% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Morgana | Peel, Protect, Catch | -6 | C+ | 39% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Nami | Peel, Poke, Catch, Sustain, Enchant | -5 | B | 43% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Nautilus | Engage, Catch, Tank | -8 | C+ | 30% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Pyke | Engage, Catch | -7 | C+ | 35% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Rakan | Engage, Peel, Protect, Sustain | -5 | B | 43% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Rell | Engage, Peel, Tank, Scaling | -9 | C | 26% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Renata Glasc | Peel, Protect, Catch, Enchant, Scaling | -2 | B+ | 57% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Senna | Poke, Protect, Catch, Sustain, Scaling | 0 | A | 65% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Seraphine | Peel, Poke, Protect, Catch, Sustain, Enchant, Scaling | -2 | B+ | 57% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Shen | Engage, Peel, Catch, Tank | -13 | F | 9% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Sona | Peel, Protect, Catch, Sustain, Enchant, Scaling | 0 | A | 65% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Soraka | Poke, Protect, Sustain, Enchant, Scaling | 6 | S+ | 91% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Swain | Catch, Tank | -4 | B | 48% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Tahm Kench | Engage, Peel, Tank | -10 | C | 22% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Taric | Peel, Protect, Sustain, Enchant, Tank, Scaling | 2 | A+ | 74% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Thresh | Engage, Peel, Catch | -12 | D | 13% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Vel'Koz | Poke, Scaling | -1 | A | 61% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Xerath | Poke | -2 | B+ | 57% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Yuumi | Peel, Sustain, Enchant, Scaling | 1 | A | 70% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Zilean | Poke, Protect, Catch, Enchant, Scaling | 1 | A | 70% |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252) | Zyra | Peel, Poke, Catch | -10 | C | 22% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Alistar         | Engage, Peel, Sustain, Tank, Scaling                                             |  -7 | C+ |  35% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Bard            | Peel, Protect, Catch, Sustain, Scaling                                           |  -3 | B+ |  52% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Blitzcrank      | Catch, Tank                                                                      |  -4 | B  |  48% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Brand           | Poke, Scaling                                                                    |  -1 | A  |  61% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Braum           | Peel, Protect, Tank, Scaling                                                     |  -3 | B+ |  52% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Galio           | Engage, Peel, Tank, Scaling                                                      |  -9 | C  |  26% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Ivern           | Protect, Catch                                                                   |  -1 | A  |  61% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Janna           | Peel, Protect, Catch, Sustain, Enchant, Scaling                                  |   0 | A  |  65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Karma           | Poke, Protect, Catch, Enchant                                                    |   0 | A  |  65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Leona           | Engage, Tank                                                                     |  -5 | B  |  43% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Lulu            | Peel, Protect, Enchant, Scaling                                                  |   1 | A  |  70% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Lux             | Poke, Protect, Catch                                                             |  -3 | B+ |  52% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Maokai          | Engage, Peel, Catch, Tank, Scaling                                               | -12 | D  |  13% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Morgana         | Peel, Protect, Catch                                                             |  -6 | C+ |  39% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Nami            | Peel, Poke, Catch, Sustain, Enchant                                              |  -5 | B  |  43% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Nautilus        | Engage, Catch, Tank                                                              |  -8 | C+ |  30% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Pyke            | Engage, Catch                                                                    |  -7 | C+ |  35% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Rakan           | Engage, Peel, Protect, Sustain                                                   |  -5 | B  |  43% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Rell            | Engage, Peel, Tank, Scaling                                                      |  -9 | C  |  26% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Renata Glasc    | Peel, Protect, Catch, Enchant, Scaling                                           |  -2 | B+ |  57% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Senna           | Poke, Protect, Catch, Sustain, Scaling                                           |   0 | A  |  65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Seraphine       | Peel, Poke, Protect, Catch, Sustain, Enchant, Scaling                            |  -2 | B+ |  57% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Shen            | Engage, Peel, Catch, Tank                                                        | -13 | F  |   9% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Sona            | Peel, Protect, Catch, Sustain, Enchant, Scaling                                  |   0 | A  |  65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Soraka          | Poke, Protect, Sustain, Enchant, Scaling                                         |   6 | S+ |  91% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Swain           | Catch, Tank                                                                      |  -4 | B  |  48% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Tahm Kench      | Engage, Peel, Tank                                                               | -10 | C  |  22% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Taric           | Peel, Protect, Sustain, Enchant, Tank, Scaling                                   |   2 | A+ |  74% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Thresh          | Engage, Peel, Catch                                                              | -12 | D  |  13% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Vel'Koz         | Poke, Scaling                                                                    |  -1 | A  |  61% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Xerath          | Poke                                                                             |  -2 | B+ |  57% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Yuumi           | Peel, Sustain, Enchant, Scaling                                                  |   1 | A  |  70% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Zilean          | Poke, Protect, Catch, Enchant, Scaling                                           |   1 | A  |  70% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Zyra            | Peel, Poke, Catch                                                                | -10 | C  |  22% |
 
 ###### Tierlist
 
-...
+| Playing Against |
+| :-------------: |
+| ...             |
 
 ##### Credits
 
@@ -122,7 +124,7 @@ On the other hand, the worst ADC to play with (or the best to play against) are 
 
 ###### Scores
 
-*Whenever changing the grading scores, make sure to sync up the changes with [grading.py](./grading.py) and update both the table and tierlists*
+*Whenever changing the grading scores, make sure to update both the table and tierlists with the use of [grading.py](./grading.py)*
 
 - **Playing with**:
 
@@ -164,41 +166,41 @@ On the other hand, the worst ADC to play with (or the best to play against) are 
 
 *For automatic grading table generation, check out [grading.py](./grading.py)*
 
-Icon | Champion | Archetype(s) | w/ Grade | w/ Rank | w/ Eff. (%) | vs Grade | vs Rank | vs Eff. (%)
----: | :------- | :----------- | :------: | :-----: | :---------: | :------: | :-----: | :---------:
-![](https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Akshan_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20210707203330)       | Akshan       | Auto-Attacker, All-in, Mobile                 |  7  | B+ | 56% |  2  | A  | 60%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Aphelios_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20200304070938)     | Aphelios     | Poker, Hypercarry, Scaler                     |  0  | D  | 17% |  4  | A+ | 70%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Ashe_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402215403)         | Ashe         | Auto-Attacker, Poker, Utility                 |  0  | D  | 17% |  0  | B+ | 50%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Caitlyn_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20230215152459)      | Caitlyn      | Auto-Attacker, Poker, Lane Bully              |  3  | C+ | 33% | -2  | B  | 40%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Corki_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160629191728)        | Corki        | All-in, Poker, Mobile                         |  6  | B+ | 50% | -2  | B  | 40%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Draven       | Auto-Attacker, Lane Bully                     |  4  | C+ | 39% | -1  | B  | 45%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Ezreal_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402220010)       | Ezreal       | Poker, Mobile                                 |  1  | C  | 22% | -4  | C+ | 30%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Jhin_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20220831152825)         | Jhin         | Poker, Lane Bully, Utility                    |  4  | C+ | 39% | -7  | D  | 15%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Jinx_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160417011945)         | Jinx         | Auto-Attacker, Hypercarry, Scaler             |  1  | C  | 22% |  8  | S+ | 90%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Kai%27Sa_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20180221202751)     | Kai'Sa       | Auto-Attacker, Lane Bully, Hypercarry, Scaler |  5  | B  | 44% |  4  | A+ | 70%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Kalista_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20170401005336)      | Kalista      | Auto-Attacker, Lane Bully, Utility, Mobile    |  7  | B+ | 56% | -6  | C  | 20%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Kog%27Maw_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402220409)    | Kog'Maw      | Auto-Attacker, Hypercarry, Scaler             |  1  | C  | 22% |  8  | S+ | 90%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Lucian_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402220529)       | Lucian       | All-in, Lane Bully, Mobile                    |  11 | A+ | 78% | -5  | C  | 25%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Miss_Fortune_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20221122021718) | Miss Fortune | Auto-Attacker, Poker, Lane Bully              |  3  | C+ | 33% | -2  | B  | 40%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Nilah_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20220623023949)        | Nilah        | Auto-Attacker, All-in, Mobile                 |  7  | B+ | 56% |  2  | A  | 60%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Samira_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20200829040527)       | Samira       | All-in, Mobile                                |  7  | B+ | 56% | -1  | B  | 45%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Senna_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20191030041312)        | Senna        | Lane Bully, Poker, Utility                    |  4  | C+ | 39% | -7  | D  | 15%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Smolder_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20240111191726)      | Smolder      | Poker, Scaler                                 | -3  | F  |  0% |  3  | A  | 65%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Sivir_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20230426195957)        | Sivir        | Auto-Attacker, Poker, Lane Bully, Utility     |  4  | C+ | 39% | -4  | C+ | 30%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Tristana_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402221501)     | Tristana     | Auto-Attacker, All-in, Lane Bully, Mobile     |  11 | A+ | 78% | -2  | B  | 40%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Twitch_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402221633)       | Twitch       | Auto-Attacker, All-in, Hypercarry, Scaler     |  6  | B+ | 50% |  10 | Z  | 100%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Varus_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20171215205843)        | Varus        | Auto-Attacker, Poker, Utility                 |  0  | D  | 17% |  0  | B+ | 50%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Vayne_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402222338)        | Vayne        | Auto-Attacker, Hypercarry, Scaler, Mobile     |  3  | C+ | 33% |  5  | A+ | 75%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Xayah_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20170404193839)        | Xayah        | Auto-Attacker, Poker, Utility                 |  0  | D  | 17% |  0  | B+ | 50%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Yasuo_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402222545)        | Yasuo        | Auto-Attacker, All-in, Hypercarry, Mobile     |  10 | A+ | 72% |  3  | A  | 65%
-![](https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Zeri_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20191030041312)         | Zeri         | All-in, Mobile                                |  7  | B+ | 56% | -1  | B  | 45%
+| Icon | Champion | Archetype(s) | w/ Grade | w/ Rank | w/ Eff. (%) | vs Grade | vs Rank | vs Eff. (%) |
+| ---: | :------- | :----------- | :------: | :-----: | :---------: | :------: | :-----: | :---------: |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Akshan_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20210707203330)       | Akshan          | Auto-Attacker, All-in, Mobile                                                    |   7 | B+ |  56% |   2 | A  |  60% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Aphelios_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20200304070938)     | Aphelios        | Poker, Hypercarry, Scaler                                                        |   0 | D  |  17% |   4 | A+ |  70% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Ashe_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402215403)         | Ashe            | Auto-Attacker, Poker, Utility                                                    |   0 | D  |  17% |   0 | B+ |  50% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Caitlyn_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20230215152459)      | Caitlyn         | Auto-Attacker, Poker, Lane Bully                                                 |   3 | C+ |  33% |  -2 | B  |  40% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Corki_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160629191728)        | Corki           | All-in, Poker, Mobile                                                            |   6 | B+ |  50% |  -2 | B  |  40% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Draven          | Auto-Attacker, Lane Bully                                                        |   4 | C+ |  39% |  -1 | B  |  45% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Ezreal_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402220010)       | Ezreal          | Poker, Mobile                                                                    |   1 | C  |  22% |  -4 | C+ |  30% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Jhin_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20220831152825)         | Jhin            | Poker, Lane Bully, Utility                                                       |   4 | C+ |  39% |  -7 | D  |  15% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Jinx_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160417011945)         | Jinx            | Auto-Attacker, Hypercarry, Scaler                                                |   1 | C  |  22% |   8 | S+ |  90% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Kai%27Sa_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20180221202751)     | Kai'Sa          | Auto-Attacker, Lane Bully, Hypercarry, Scaler                                    |   5 | B  |  44% |   4 | A+ |  70% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Kalista_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20170401005336)      | Kalista         | Auto-Attacker, Lane Bully, Utility, Mobile                                       |   7 | B+ |  56% |  -6 | C  |  20% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Kog%27Maw_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402220409)    | Kog'Maw         | Auto-Attacker, Hypercarry, Scaler                                                |   1 | C  |  22% |   8 | S+ |  90% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Lucian_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402220529)       | Lucian          | All-in, Lane Bully, Mobile                                                       |  11 | A+ |  78% |  -5 | C  |  25% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Miss_Fortune_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20221122021718) | Miss Fortune    | Auto-Attacker, Poker, Lane Bully                                                 |   3 | C+ |  33% |  -2 | B  |  40% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Nilah_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20220623023949)        | Nilah           | Auto-Attacker, All-in, Mobile                                                    |   7 | B+ |  56% |   2 | A  |  60% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Samira_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20200829040527)       | Samira          | All-in, Mobile                                                                   |   7 | B+ |  56% |  -1 | B  |  45% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20160526212252)       | Senna           | Lane Bully, Poker, Utility                                                       |   4 | C+ |  39% |  -7 | D  |  15% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Smolder_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20240111191726)      | Smolder         | Poker, Scaler                                                                    |  -3 | F  |   0% |   3 | A  |  65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Sivir_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20230426195957)        | Sivir           | Auto-Attacker, Poker, Lane Bully, Utility                                        |   4 | C+ |  39% |  -4 | C+ |  30% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Tristana_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402221501)     | Tristana        | Auto-Attacker, All-in, Lane Bully, Mobile                                        |  11 | A+ |  78% |  -2 | B  |  40% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Twitch_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402221633)       | Twitch          | Auto-Attacker, All-in, Hypercarry, Scaler                                        |   6 | B+ |  50% |  10 | Z  | 100% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Varus_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20171215205843)        | Varus           | Auto-Attacker, Poker, Utility                                                    |   0 | D  |  17% |   0 | B+ |  50% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Vayne_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402222338)        | Vayne           | Auto-Attacker, Hypercarry, Scaler, Mobile                                        |   3 | C+ |  33% |   5 | A+ |  75% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Xayah_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20170404193839)        | Xayah           | Auto-Attacker, Poker, Utility                                                    |   0 | D  |  17% |   0 | B+ |  50% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Yasuo_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20150402222545)        | Yasuo           | Auto-Attacker, All-in, Hypercarry, Mobile                                        |  10 | A+ |  72% |   3 | A  |  65% |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Zeri_OriginalSquare.png/revision/latest/scale-to-width-down/32?cb=20191030041312)         | Zeri            | All-in, Mobile                                                                   |   7 | B+ |  56% |  -1 | B  |  45% |
 
 \***Effectiveness**: How much the ADC matches with you / plays in your favor.
 
 ###### Tierlist
 
 Playing With                 | Playing Against
----------------------------- | --------------------------
+:--------------------------: | :------------------------:
 ![](./adc-tierlist-with.PNG) | ![](./adc-tierlist-vs.PNG)
 
 ## 2. Playstyle
@@ -360,38 +362,51 @@ That's it haha.
 
 ### 3.1. Itemization
 
-- **Celestial Opposition**: Timed correctly with your engages, gives massive slow and with your trades, mitigates tons of damage!
-- **CDR Boots**: Great value for your whole kit. More taunts, more ults, more Ws, more peel!
-- Locket
-- Redemption
-- **Moonstone**: bigger, double shields (Passive, Locket, R), bigger heals (Redemption, Mikael's)
-- Knight's Vow / Mikael's
+| Icon | Item | Description |
+| ---: | :--- | :---------- |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Celestial_Opposition_item_HD.png/revision/latest/scale-to-width-down/32?cb=20231204214836) | Celestial Opposition | Timed correctly with your engages, gives massive slow and with your trades, mitigates tons of damage! |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Ionian_Boots_of_Lucidity_item_HD.png/revision/latest/scale-to-width-down/32?cb=20210825182132) | CDR Boots | Great value for your whole kit. More taunts, more ults, more Ws, more peel!
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Locket_of_the_Iron_Solari_item_HD.png/revision/latest/scale-to-width-down/32?cb=20240109212528) | Locket | ... |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Redemption_item_HD.png/revision/latest/scale-to-width-down/32?cb=20201111001608) | Redemption | ... |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Moonstone_Renewer_item_HD.png/revision/latest/scale-to-width-down/32?cb=20201110234334) | Moonstone | Bigger, double shields (Passive, Locket, R), bigger heals (Redemption, Mikael's)
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Knight%27s_Vow_item_HD.png/revision/latest/scale-to-width-down/32?cb=20240109213037) <br> ![](https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Mikael%27s_Blessing_item.png/revision/latest/scale-to-width-down/32?cb=20201104235802) | **Knight's Vow** <br> or <br> **Mikael's** | ...
 
 ### 3.2. Runes
 
 #### Primary:
 
-The domination tree is the best primary tree for Shen Support, as it strengthens your already insanely strong early game. You, as shen support, rely on your early game power and aggression, making this tree the best possible choice.
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Tree</th>
+        <th>Icon</th>
+        <th>Rune / Keystone</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td rowspan="3"><img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Domination_icon.png/revision/latest/scale-to-width-down/32?cb=20170926031123"></td>
+        <td rowspan="3">Domination</td>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Hail_of_Blades_rune.png/revision/latest/scale-to-width-down/32?cb=20180505140825"></td>
+        <td><strong>Hail of Blades</strong></td>
+    </tr>
+    <tr>
+        <td>123</td>
+    </tr>
+</table>
 
-- **Hail of Blades**: HoB is hands-down the best keystone for shen. The early game pressure it provides is insane and other runes cannot even come close. The extra attack speed benefits your trades massively.
+| Tree Icon | Tree | Icon | Rune / Keystone | Description |
+| --------: | :--- | ---: | :-------------- | :---------- |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Hail_of_Blades_rune.png/revision/latest/scale-to-width-down/32?cb=20180505140825) | **Hail of Blades** | HoB is hands-down the best keystone for shen. The early game pressure it provides is insane and other runes cannot even come close. The extra attack speed benefits your trades massively. |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Cheap_Shot_rune.png/revision/latest/scale-to-width-down/32?cb=20171015200242) | Cheap Shot | Cheap shot can proc on all AAs during E and emp Q and outside CC, whereas sudden impact only procs on one AA after E |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Zombie_Ward_rune.png/revision/latest/scale-to-width-down/32?cb=20171007115218) | Zombie Ward | Better than ghost poro + works well with early sweeper |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Ultimate_Hunter_rune.png/revision/latest/scale-to-width-down/32?cb=20180509080323) | Ultimate Hunter | Shen R has one of the longest CDs in the game. Any amount of CDR on ur R cannot compare to the bonus gold (Treasure Hunter) or movement speed (Relentless Hunter) |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Hextech_Flashtraption_rune.png/revision/latest/scale-to-width-down/32?cb=20171004081048) | Hexflash | Allows for really aggressive, creative and otherwise impossible engages and insane ganks |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Cosmic_Insight_rune.png/revision/latest/scale-to-width-down/32?cb=20171004080929) | Cosmic Insight | Really good for all the active items you're building (Locket, Redemption) and getting your flash & ignite sooner.
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Rune_shard_Attack_Speed.png/revision/latest/scale-to-width-down/32?cb=20181122101609) | +10% ATK Speed | ... |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Rune_shard_Health_Scaling.png/revision/latest/scale-to-width-down/32?cb=20240125041118) | Health Scaling | ... |
+| ![](https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Rune_shard_Health_Scaling.png/revision/latest/scale-to-width-down/32?cb=20240125041118) | Health Scaling | ... |
 
-- **Cheap Shot**: Cheap shot can proc on all AAs during E and emp Q and outside CC, whereas sudden impact only procs on one AA after E
-- **Zombie Ward**: Better than ghost poro + works well with early sweeper
-
-- **Ultimate Hunter**: Shen R has one of the longest CDs in the game. Any amount of CDR on ur R cannot compare to the bonus gold (Treasure Hunter) or movement speed (Relentless Hunter)
-
-#### Secondary:
-
-Inspiration tree
-
-- **Hexflash**: Allows for really aggressive, creative and otherwise impossible engages and insane ganks
-- **Cosmic Insight**: Really good for all the active items you're building (Locket, Redemption) and getting your flash & ignite sooner.
-
-#### Stats:
-
-- ATK Speed
-- Adaptive Force
-- Health Scaling
+![](https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Domination_icon.png/revision/latest/scale-to-width-down/32?cb=20170926031123) The domination tree is the best primary tree for Shen Support, as it strengthens your already insanely strong early game. You, as shen support, rely on your early game power and aggression, making this tree the best possible choice.
 
 ### 3.3. Summoner Spells
 
