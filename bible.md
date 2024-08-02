@@ -373,42 +373,104 @@ That's it haha.
 
 ### 3.2. Runes
 
-#### Primary:
-
 <table>
     <tr>
         <th>Icon</th>
         <th>Tree</th>
+        <th>Description</th>
         <th>Icon</th>
-        <th>Rune / Keystone</th>
+        <th>Rune / Keystone / Shard</th>
         <th>Description</th>
     </tr>
     <tr>
-        <td rowspan="3"><img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Domination_icon.png/revision/latest/scale-to-width-down/32?cb=20170926031123"></td>
-        <td rowspan="3">Domination</td>
+        <td rowspan="4"><img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Domination_icon.png/revision/latest/scale-to-width-down/32?cb=20170926031123"></td>
+        <td rowspan="4">Domination</td>
+        <td rowspan="4">
+            The domination tree is the best primary tree for Shen Support, as it strengthens your already insanely strong early game. You, as shen support, rely on your early game power and aggression, making this tree the best possible choice.
+        </td>
         <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Hail_of_Blades_rune.png/revision/latest/scale-to-width-down/32?cb=20180505140825"></td>
         <td><strong>Hail of Blades</strong></td>
+        <td>HoB is hands-down the best keystone for shen. The early game pressure it provides is insane and other runes cannot even come close. The extra attack speed benefits your trades massively</td>
     </tr>
     <tr>
-        <td>123</td>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Cheap_Shot_rune.png/revision/latest/scale-to-width-down/32?cb=20171015200242"></td>
+        <td>Cheap Shot</td>
+        <td>Cheap shot can proc on all AAs during E and emp Q and outside CC, whereas sudden impact only procs on one AA after E</td>
+    </tr>
+    <tr>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Zombie_Ward_rune.png/revision/latest/scale-to-width-down/32?cb=20171007115218"></td>
+        <td>Zombie Ward</td>
+        <td>Better than ghost poro and works well with early sweeper</td>
+    </tr>
+    <tr>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Ultimate_Hunter_rune.png/revision/latest/scale-to-width-down/32?cb=20180509080323"></td>
+        <td>Ultimate Hunter</td>
+        <td>Shen R has one of the longest CDs in the game. Any amount of CDR on ur R cannot compare to the bonus gold (Treasure Hunter) or movement speed (Relentless Hunter)</td>
+    </tr>
+    <tr>
+        <td rowspan="3"><img src="https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Inspiration_icon.png/revision/latest/scale-to-width-down/28?cb=20170926031124"></td>
+        <td rowspan="3">Inspiration</td>
+        <td rowspan="3">...</td>
+    </tr>
+    <tr>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Hextech_Flashtraption_rune.png/revision/latest/scale-to-width-down/32?cb=20171004081048"></td>
+        <td>Hexflash</td>
+        <td>Allows for really aggressive, creative and otherwise impossible engages and insane ganks</td>
+    </tr>
+    <tr>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Cosmic_Insight_rune.png/revision/latest/scale-to-width-down/32?cb=20171004080929"></td>
+        <td>Cosmic Insight</td>
+        <td>Really good for all the active items you're building (Locket, Redemption) and getting your flash & ignite sooner.</td>
+    </tr>
+    <tr>
+        <td rowspan="4"><img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Rune_shard_Adaptive_Force.png/revision/latest/scale-to-width-down/30?cb=20181122101607"></td>
+        <td rowspan="4">Shards</td>
+        <td rowspan="4"></td>
+    </tr>
+    <tr>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Rune_shard_Attack_Speed.png/revision/latest/scale-to-width-down/32?cb=20181122101609"></td>
+        <td>+10% ATK Speed</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Rune_shard_Health_Scaling.png/revision/latest/scale-to-width-down/32?cb=20240125041118"></td>
+        <td>Health Scaling</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Rune_shard_Health_Scaling.png/revision/latest/scale-to-width-down/32?cb=20240125041118"></td>
+        <td>Health Scaling</td>
+        <td>...</td>
     </tr>
 </table>
 
-| Tree Icon | Tree | Icon | Rune / Keystone | Description |
-| --------: | :--- | ---: | :-------------- | :---------- |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Hail_of_Blades_rune.png/revision/latest/scale-to-width-down/32?cb=20180505140825) | **Hail of Blades** | HoB is hands-down the best keystone for shen. The early game pressure it provides is insane and other runes cannot even come close. The extra attack speed benefits your trades massively. |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Cheap_Shot_rune.png/revision/latest/scale-to-width-down/32?cb=20171015200242) | Cheap Shot | Cheap shot can proc on all AAs during E and emp Q and outside CC, whereas sudden impact only procs on one AA after E |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Zombie_Ward_rune.png/revision/latest/scale-to-width-down/32?cb=20171007115218) | Zombie Ward | Better than ghost poro + works well with early sweeper |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Ultimate_Hunter_rune.png/revision/latest/scale-to-width-down/32?cb=20180509080323) | Ultimate Hunter | Shen R has one of the longest CDs in the game. Any amount of CDR on ur R cannot compare to the bonus gold (Treasure Hunter) or movement speed (Relentless Hunter) |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Hextech_Flashtraption_rune.png/revision/latest/scale-to-width-down/32?cb=20171004081048) | Hexflash | Allows for really aggressive, creative and otherwise impossible engages and insane ganks |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Cosmic_Insight_rune.png/revision/latest/scale-to-width-down/32?cb=20171004080929) | Cosmic Insight | Really good for all the active items you're building (Locket, Redemption) and getting your flash & ignite sooner.
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Rune_shard_Attack_Speed.png/revision/latest/scale-to-width-down/32?cb=20181122101609) | +10% ATK Speed | ... |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Rune_shard_Health_Scaling.png/revision/latest/scale-to-width-down/32?cb=20240125041118) | Health Scaling | ... |
-| ![](https://static.wikia.nocookie.net/leagueoflegends/images/c/c0/Rune_shard_Health_Scaling.png/revision/latest/scale-to-width-down/32?cb=20240125041118) | Health Scaling | ... |
-
-![](https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Domination_icon.png/revision/latest/scale-to-width-down/32?cb=20170926031123) The domination tree is the best primary tree for Shen Support, as it strengthens your already insanely strong early game. You, as shen support, rely on your early game power and aggression, making this tree the best possible choice.
-
 ### 3.3. Summoner Spells
+
+<table>
+    <tr>
+        <td>Position</td>
+        <td>Icon</td>
+        <td>Spell</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>First</td>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Flash.png/revision/latest/scale-to-width-down/32?cb=20180514003149"></td>
+        <td>Flash</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Second</td>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Ignite.png/revision/latest/scale-to-width-down/32?cb=20180514003345"></td>
+        <td>Ignite</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Exhaust.png/revision/latest/scale-to-width-down/32?cb=20180514003128"></td>
+        <td>Exhaust</td>
+        <td>...</td>
+    </tr>
+</table>
 
 As Shen support, there are only really two viable spells: flash  w/ ignite or exhaust. Mid/late game, exhaust is much better in teamfights and peeling, whereas ignite is nowhere near that useful. As previously mentioned, you really on hard-stomping your lane early game. Making ignite the preferred summoner spell.
 
