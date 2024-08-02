@@ -23,7 +23,7 @@ Engage | Able to initiate a fight and go all-in | Leona, Nautilus, Rell
 Peel | Excellent at peeling off engagers | Janna, Taric, Renata
 Poke | Efficient damage dealer from a safe position. Can drop your health bar below 50% in just one combo while you can't even see them on your screen. | Xerath, Lux, Brand
 Protect | Made to mitigate (shield) / negate incoming damage | Lulu, Janna, Morgana
-Catch | Able to make picks from afar. Safer CC that doesn't require all-ins. Prevents enemy escape | Blitzcrank, Nautilus, Veigar
+Catch | Able to make picks from afar. Safer CC that doesn't require all-ins. Prevents enemy escape. Can play extremely safe and still be an extreme threat to both you and your ADC. | Blitzcrank, Nautilus, Veigar
 Sustain | Sustaining (healing) the team through poke | Soraka, Sona, Yuumi
 Enchant | Applies many sort of buffs to enhance team stats | Sona, Lulu, Nami
 Tank | Frontline damage sponges | Leona, Alistar, Rell
@@ -37,21 +37,23 @@ Scaling | Tries to go even in lane, scales well late game | Sona, Yuumi, Janna
 
 Playing against:
 
-- `(+3)` **Enchant**: Very passive, can't deal with your early aggression. No amount of buffs are going to stop you.
-- `(+2)` **Sustain / Protect**: No amount of sustain can save you from all-in, can it?
-- `(+1)` **Scaling**: Scaling champions don't look to win the lane. They try to survive it. And you, as an engage support, make it damn near impossible.
+- `(+2)` **Enchant**: Rather very passive. Can't deal with your early aggression. No amount of buffs are going to help their ADC.
+- `(+1)` **Sustain / Protect**: No amount of sustain or shields can save them from an all-in, can it?
 - `(-1)` **Tank**: ...
+- `(-1)` **Scaling**: Some scaling supports don't look to win the lane, but to survive it. Others can completely dominate the lane. It's a gamble, but generally not a favourable match-up.
 - `(-2)` **Poke**:
     - Wait out their important CDs and go all in on their ADC.
     - Maintain brush control and be the one zoning *them* off.
-- `(-3)` **Catch**: Can play extremely safe and still be an extreme threat to both you and your ADC.
+- `(-3)` **Catch**: Wait out important CDs and go all-in.
 - `(-4)` **Engage**:
      - Most engage supports have way longer CC chains and range than you. Wait out their important CDs and go in, otherwise this is just a battle of "whoever engages first, loses".
     - If they engage on your ADC, you counter-engage on theirs and, with them having wasted all their CC, you win the fight.
     - Generally don't look to engage if they have their CC up.
-- `(-5)` **Peel**: ...
+- `(-5)` **Peel**: Your biggest threat, as they can easily shutdown your engages. Wait out their important CDs and look for engages.
 
 ###### Table
+
+TODO: Update the table
 
 *For automatic grading table generation, check out [grading.py](./grading.py)*
 
@@ -112,8 +114,9 @@ Archetype      | Description | Examples
 Auto-Attackers | Their damage comes mostly out of their auto-attacks | Ashe, Tristana, Twitch
 All-Ins        | Rely on all-in'ing the enemy. All or nothing | Samira, Nilah, Twitch
 Pokers         | Play safe, keep distance and attack from long range | Ezreal, Ashe, Caitlyn
-Lane Bullies   | Aggressive early game | Caitlyn, Draven, Lucian, Jinx, Tristana, Vayne
-Scalers        | Hypercarries: Weaker, safe early game with insane scaling / late-game | Smolder, Zeri, Senna
+Lane Bullies   | Aggressive early game | Caitlyn, Draven, Lucian
+Hypercarries | Weaker early game with insane mid/late game and snowball potential | Jinx, Tristana, Vayne
+Scalers        | Weaker, safe early game with insane scaling / late-game | Smolder, Zeri, Senna
 Utility        | Strong CC and/or engage | Ashe, Jhin, Senna, Varus, Xayah
 Mobile         | High amounts of mobility (blinks, dashes) | Ezreal, Tristana, Vayne, Lucian
 
@@ -359,6 +362,10 @@ Maxing E for lower CD is the most optimal, as it allows you to taunt more often 
 That's it haha.
 
 ## 3. Build
+
+https://peak.sybo.dev/builds/17226368332
+
+![](build.png)
 
 ### 3.1. Itemization
 
